@@ -1,5 +1,5 @@
-
-layout:slide
+---
+layout:slide 1
 title: "Welcome to our second slide!"
 ---
 It's a good day to start a day with CODING
